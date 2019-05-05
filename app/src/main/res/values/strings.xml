@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">ErziHutamaApps</string>
+
+
+    // TODO: 22/02/18
+    <string name="home">Home</string>
+    <string name="daily">Daily</string>
+    <string name="galeri">Galeri</string>
+    <string name="favorite">Music</string>
+    <string name="profil">Profil</string>
+    <string name="follow">F O L L O W</string>
+    <string name="followers">27,292,282 Followers</string>
+    <string name="erzi_hutama">ERZI HUTAMA D P</string>
+    <string name="ceo">Ceo ErziApps</string>
+    <string name="about">ABOUT ERZI</string>
+    <string name="interest">Interest</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="datadiri">Hello :) saya <b>Erzi hutama dwirama putra </b>saya dari Bandung , saya seorang junior programer
+    saya sangat menyukai sebuah UI/UX untuk tampilan sebuah program sehingga penggunaan aplikasi tersebut
+        berpenampilan menarik dan tidak mengesampingkan sebuah kenyamanan aplikasi tersebut sehingga.
+        saya asli dari banten kuliah di bandung untuk mencari ilmu dan saya bisa menshare ilmu saya di
+        kampung halaman karena untuk memajukan pemerataan teknologi di indonesia . saya erzi hutama Selamat menikmati <b>ERZIAPPS</b> :).
+    </string>
+    <string name="Nohp">08986160843</string>
+    <string name="email">Erzihutama@gmail.com</string>
+    <string name="instagram">Erzihutama</string>
+    <string name="website">erzihutama.com</string>
+    <string name="NO_INFORMATION" />
+    <string name="founder">CEO ERZI APPS</string>
+    <string name="Hobby">Hobby</string>
+    <string name="isihoby">Karena dengan design membuat saya berasa lebih hidup</string>
+    <string name="makes">Makes</string>
+    <string name="Design">Design</string>
+    <string name="code">Coding</string>
+    <string name="isicode">Dengan koding  membuat saya berfikir untuk cepat </string>
+    <string name="isiinterest">Ingin menjadi seorang developer expert</string>
+    <string name="olahraga">Olahraga</string>
+    <string name="isiolahraga">Saya sangat suka semua olahraga</string>
+    <string name="cita">cita-cita</string>
+    <string name="isicita">CIta-cita saya ingin Membangun sebuah startup </string>
+    <string name="aktivity">AKTIVITAS</string>
+
+</resources>
